@@ -1,4 +1,4 @@
-# serialization_app
+# serialization_app (tested with Python 2.7.3) 
 ##  Description :
 A Python command line tool which take some sets of personal data (seq, shot, frame, artist) and 
  
