@@ -1,0 +1,95 @@
+**********  Output in TEXT Format  ************* 
+
+Total inputs received :  13 
+------------------------------------------------
+	Sequence		=	sq010 
+	ShotName		=	sh0100 
+	FrameLen		=	112 
+	Assignee		=	Unassigned 
+			=	 
+
+------------------------------------------------
+	Sequence		=	sq010 
+	ShotName		=	sh0110 
+	FrameLen		=	56 
+	Assignee		=	Bob 
+			=	 
+
+------------------------------------------------
+	Sequence		=	sq010 
+	ShotName		=	sh0120 
+	FrameLen		=	91 
+	Assignee		=	Kathy 
+			=	 
+
+------------------------------------------------
+	Sequence		=	sq010 
+	ShotName		=	sh0130 
+	FrameLen		=	68 
+	Assignee		=	Josh 
+			=	 
+
+------------------------------------------------
+	Sequence		=	sq020 
+	ShotName		=	sh0200 
+	FrameLen		=	52 
+	Assignee		=	Unassigned 
+			=	 
+
+------------------------------------------------
+	Sequence		=	sq020 
+	ShotName		=	sh0210 
+	FrameLen		=	47 
+	Assignee		=	Kyle 
+			=	 
+
+------------------------------------------------
+	Sequence		=	sq020 
+	ShotName		=	sh0220 
+	FrameLen		=	88 
+	Assignee		=	Unassigned 
+			=	 
+
+------------------------------------------------
+	Sequence		=	sq020 
+	ShotName		=	sh0230 
+	FrameLen		=	234 
+	Assignee		=	Samual 
+			=	 
+
+------------------------------------------------
+	Sequence		=	sq020 
+	ShotName		=	sh0240 
+	FrameLen		=	142 
+	Assignee		=	David 
+			=	 
+
+------------------------------------------------
+	Sequence		=	 
+	ShotName		=	 
+	FrameLen		=	 
+	Assignee		=	 
+			=	 
+
+------------------------------------------------
+	Sequence		=	 
+	ShotName		=	 
+	FrameLen		=	 
+	Assignee		=	 
+			=	 
+
+------------------------------------------------
+	Sequence		=	 
+	ShotName		=	 
+	FrameLen		=	 
+	Assignee		=	 
+			=	 
+
+------------------------------------------------
+	Sequence		=	 
+	ShotName		=	 
+	FrameLen		=	 
+	Assignee		=	 
+			=	 
+
+------------------------------------------------
